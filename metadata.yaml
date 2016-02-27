@@ -1,0 +1,39 @@
+_repo: The-Odyssey_3160
+contributor:
+  translator:
+    agent_name: Pope, Alexander
+    alias: Barnivelt, Esdras
+    birthdate: 1688
+    deathdate: 1744
+    gutenberg_agent_id: '907'
+    url: http://www.gutenberg.org/2009/agents/907
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: See also PG#1727 and PG#1728
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Harvard Classics
+- Classical Antiquity
+gutenberg_issued: '2002-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Homer -- Translations into English'
+- !lcsh 'Odysseus (Greek mythology) -- Poetry'
+- !lcsh 'Epic poetry, Greek -- Translations into English'
+title: The Odyssey
+url: http://www.gutenberg.org/ebooks/3160
