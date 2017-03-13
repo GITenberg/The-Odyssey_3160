@@ -1,5 +1,5 @@
 _repo: The-Odyssey_3160
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Pope, Alexander
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '907'
     url: http://www.gutenberg.org/2009/agents/907
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Pope
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Homer
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/705
     wikipedia: http://en.wikipedia.org/wiki/Homer
 description: See also PG#1727 and PG#1728
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3160#The-Odyssey
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Harvard Classics
