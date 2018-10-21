@@ -29,6 +29,7 @@ Author: Homer, translated by Alexander Pope
 
 Release Date: April, 2002 [EBook #3160]
 [This 11th edition first posted on June 1, 2003]
+[Last updated: March 30, 2018]
 
 Edition: 11
 
@@ -1376,7 +1377,7 @@ The same his features, if the same his years.
 Such was that face, on which I dwelt with joy
 Ere Greece assembled stemm'd the tides to Troy;
 But, parting then for that detested shore,
-Our eyes, unhappy? never greeted more."
+Our eyes, unhappy never greeted more."
 
 "To prove a genuine birth (the prince replies)
 On female truth assenting faith relies.
@@ -1634,7 +1635,7 @@ The peers of Ithaca would arm in aid.
 But say, that stranger guest who late withdrew,
 What and from whence? his name and lineage shew.
 His grave demeanour and majestic grace
-Speak him descended of non vulgar race:
+Speak him descended of no vulgar race:
 Did he some loan of ancient right require,
 Or came forerunner of your sceptr'd sire?"
 
@@ -1879,7 +1880,7 @@ Haste from the court, ye spoilers, haste away:
 Waste in wild riot what your land allows,
 There ply the early feast, and late carouse.
 But if to honour lost, 'tis still decreed
-For you my howl shall flow, my flocks shall bleed;
+For you my bowl shall flow, my flocks shall bleed;
 Judge, and assert my right, impartial Jove!
 By him, and all the immortal host above
 (A sacred oath), if heaven the power supply,
@@ -1913,12 +1914,12 @@ Nor to the great alone is death decreed;
 We and our guilty Ithaca must bleed.
 Why cease we then the wrath of heaven to stay?
 Be humbled all, and lead, ye great! the way.
-For lo? my words no fancied woes relate;
+For lo my words no fancied woes relate;
 I speak from science and the voice of fate.
 
 "When great Ulysses sought the Phrygian shores
 To shake with war proud Ilion's lofty towers,
-Deeds then undone me faithful tongue foretold:
+Deeds then undone my faithful tongue foretold:
 Heaven seal'd my words, and you those deeds behold.
 I see (I cried) his woes, a countless train;
 I see his friends o'erwhelm'd beneath the main;
@@ -2410,7 +2411,7 @@ In public sentence, or in private thought;
 Alike to council or the assembly came,
 With equal souls, and sentiments the same.
 But when (by wisdom won) proud Ilion burn'd,
-And in their slips the conquering Greeks return'd,
+And in their ships the conquering Greeks return'd,
 'Twas God's high will the victors to divide,
 And turn the event, confounding human pride;
 Some be destroy'd, some scatter'd as the dust
@@ -2452,7 +2453,7 @@ He there, though late, to please the monarch, stay'd.
 But I, determined, stem the foamy floods,
 Warn'd of the coming fury of the gods.
 With us, Tydides fear'd, and urged his haste:
-And Menelads came, but came the last,
+And Menelaus came, but came the last,
 He join'd our vessels in the Lesbian bay,
 While yet we doubted of our watery way;
 If to the right to urge the pilot's toil
